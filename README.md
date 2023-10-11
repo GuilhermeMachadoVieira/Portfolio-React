@@ -10,6 +10,12 @@ HTML: Para a estruturação do conteúdo da página.
 CSS: Utilizado para a estilização e apresentação visual.
 React: Uma biblioteca JavaScript para a construção de interfaces de usuário.
 ## Como Executar o Projeto
+
+Para Acessar o meu Projeto basta acessar o link:
+https://guilhermevieira.site
+
+### Ou se preferir baixa-lo: 
+
 Certifique-se de ter o Node.js instalado.
 
 ### Clone o repositório:
